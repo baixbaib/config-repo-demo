@@ -1,2 +1,2 @@
-server.port: 1011
-profile: dev
+server.port: 1010
+profile: default
